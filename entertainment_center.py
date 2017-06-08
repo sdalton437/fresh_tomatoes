@@ -32,7 +32,7 @@ hot_fuzz = media.Movie("Hot Fuzz", "A big time cop from London get transferred
                        "http://www.impawards.com/2007/posters/hot_fuzz_xlg.jpg",
                        "https://www.youtube.com/watch?v=ayTnvVpj9t4")
 
-black_hawk_down = media.Movie("Black Hawk Down", "US soldiers fight for thier
+black_hawk_down = media.Movie("Black Hawk Down", "US soldiers fight for their
                               "lives in a Somalian city",
                               "http://www.impawards.com/2001/posters/black_hawk_down_ver1_xlg.jpg",
                               "https://www.youtube.com/watch?v=tnV6wM-vd9s")
