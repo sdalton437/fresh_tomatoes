@@ -9,7 +9,7 @@ class Movie():
         self.title = movie_title  #stores movie title
         self.storyline = movie_storyline  #stores movie storyline
         self.poster_image_url = poster_image  #stores poster image url
-        self.trailer_youtube_url = trailer_youtube  #store youtube trailer url
+        self.trailer_youtube_url = trailer_youtube  #stores youtube trailer url
 
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)  #Used to open movie's youtube
