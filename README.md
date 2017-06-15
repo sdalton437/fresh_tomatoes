@@ -4,12 +4,26 @@ fresh_tomatoes is a website that lists great movies, and allows the user to view
 
 # Requirements
 
-In order to run this program, you must have **python version 2.7.13** or later and: 
+In order to run this program, you must have **python version 2.7.13** or later.
 
-- entertainment_center.py
-- media.py 
-- fresh_tomatoes.py
-- fresh_tomatoes.html
+# Running the Program
 
-All four files must be in the same directory for the code to work. 
-To run the program, right click on fresh_tomatoes.html and select open (with the webbrowser of your choice). 
+You can run the program by entering the following commands in the terminal: 
+
+Windows: 
+```
+cd \fresh_tomatoes-master
+entertainment_center.py
+```
+
+Linux:
+```
+cd ~/fresh_tomatoes-master
+python ./entertainment_center.py
+```
+
+Mac:
+```
+cd fresh_tomatoes-master
+python ./entertainment_center.py 
+```
