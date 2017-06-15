@@ -4,7 +4,7 @@ fresh_tomatoes is a website that lists great movies, and allows the user to view
 
 # Requirements
 
-In order to run this program, you must have **python version 2.7.13** or later.
+In order to run this program, you must have **python version 2.7.13** or later and have downloaded the fresh_tomatoes-master folder.
 
 # Running the Program
 
